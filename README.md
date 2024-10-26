@@ -1,4 +1,4 @@
-# 【典藏版】高清港台直播源
+# IPTV高清直播源
 
 ## 📺订阅地址
 https://raw.githubusercontent.com/zwu009/myIPTV/main/ipv6.m3u
